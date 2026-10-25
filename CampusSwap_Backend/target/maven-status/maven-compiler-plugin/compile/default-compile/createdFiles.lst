@@ -1,0 +1,4 @@
+com\campusswap\backend\product\ProductRepository.class
+com\campusswap\backend\product\Product.class
+com\campusswap\backend\BackendApplication.class
+com\campusswap\backend\product\ProductController.class
